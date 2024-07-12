@@ -1,0 +1,22 @@
+{
+  "name": "rudrababa_ngo_project",
+  "version": "1.0.0",
+  "description": "Building a Ngo Project for Rudra Baba Social Welfare society",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "firebase": "^9.18.0"
+  }
+}
